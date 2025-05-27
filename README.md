@@ -1,2 +1,2 @@
 --Readme
-This section Consists of AI projects done during academic Studies
+This section Consists of AI projects done during PG academic Studies 
